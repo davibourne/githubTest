@@ -5,4 +5,4 @@ years <- 2000:2010
 us_pop <- c(281.42, 285.32, 288.37, 291.58, 294.99, 298.59, 301.58, 304.37, 307.01, 309.33, 311.59)
 
 # Plot the data
-plot(years, us_pop, type = "l", xlab = "Year", ylab = "Population (in millions)", main = "US Population from 2000 to 2010",col="red")
+plot(years, us_pop, type = "l", xlab = "Year", ylab = "Population (in millions)", main = "US Population from 2000 to 2010",col="blue")
